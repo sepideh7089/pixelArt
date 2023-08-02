@@ -23,17 +23,27 @@ Name | Reason
 --- | ---
 
 [Bootstrap](https://getbootstrap.com/) | Simple RWD framework for designing the front end.
+[Gif.js](https://github.com/jnordberg/gif.js) | Simple JavaScript GIF encoding library.
 
 ## Installation / Run
+
+Describe how we can check your project locally.
+
+For example:
+
+---
+
 The following components must be installed locally:
 
 - [nodejs](https://nodejs.org/en/) v13.2.0
 
 
-Follow these steps
+To run the project locally, enter the following in the command line / bash:
+
 ```console
 $ git clone <linktorepository>
 $ cd <repositoryname>
-$ Run node server.js
+$ npm install
+$ npm run start
 ```
 ---
